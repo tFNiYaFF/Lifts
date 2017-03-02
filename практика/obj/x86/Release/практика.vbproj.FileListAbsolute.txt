@@ -1,0 +1,9 @@
+C:\Users\Оля\Desktop\1308\praktika2307\praktika\практика\bin\Release\практика.exe
+C:\Users\Оля\Desktop\1308\praktika2307\praktika\практика\bin\Release\практика.pdb
+C:\Users\Оля\Desktop\1308\praktika2307\praktika\практика\bin\Release\практика.xml
+C:\Users\Оля\Desktop\1308\praktika2307\praktika\практика\obj\x86\Release\WindowsApplication1.Form1.resources
+C:\Users\Оля\Desktop\1308\praktika2307\praktika\практика\obj\x86\Release\WindowsApplication1.Resources.resources
+C:\Users\Оля\Desktop\1308\praktika2307\praktika\практика\obj\x86\Release\практика.vbproj.GenerateResource.Cache
+C:\Users\Оля\Desktop\1308\praktika2307\praktika\практика\obj\x86\Release\практика.exe
+C:\Users\Оля\Desktop\1308\praktika2307\praktika\практика\obj\x86\Release\практика.xml
+C:\Users\Оля\Desktop\1308\praktika2307\praktika\практика\obj\x86\Release\практика.pdb

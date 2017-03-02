@@ -1,0 +1,96 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+практика
+</name>
+</assembly>
+<members>
+<member name="P:WindowsApplication1.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.arrow_down_png">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.arrow_up_png">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.deathstar20">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.finalpause">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.finalstop">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Horizontal_png">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.HorizontalExtraLight_png">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.HorizontalLight_png">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.iSave">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.lift1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.lift2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.liftbig">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.newStart">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.newStart__2_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Table_png">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Vertical_png">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.Крипер">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication1.My.Resources.Resources.лифтнов">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:WindowsApplication1.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

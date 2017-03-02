@@ -1,0 +1,202 @@
+C:\Users\Asus\documents\visual studio 2010\Projects\практика\практика\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Asus\documents\visual studio 2010\Projects\практика\практика\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Asus\documents\visual studio 2010\Projects\практика\практика\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\практика\практика\bin\Debug\практика.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\практика\практика\bin\Debug\практика.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\практика\практика\bin\Debug\практика.xml
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\практика\практика\obj\x86\Debug\практика.exe
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\практика\практика\obj\x86\Debug\практика.xml
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\практика\практика\obj\x86\Debug\практика.pdb
+C:\Users\Asus\Documents\Visual Studio 2010\Projects\практика\практика\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Оля\Downloads\praktika\практика\obj\x86\Debug\практика.exe
+C:\Users\Оля\Downloads\praktika\практика\obj\x86\Debug\практика.xml
+C:\Users\Оля\Downloads\praktika\практика\obj\x86\Debug\практика.pdb
+C:\Users\Оля\Downloads\praktika\практика\bin\Debug\практика.exe
+C:\Users\Оля\Downloads\praktika\практика\bin\Debug\практика.pdb
+C:\Users\Оля\Downloads\praktika\практика\bin\Debug\практика.xml
+C:\Users\Оля\Downloads\praktika\практика\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Оля\Downloads\praktika\практика\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Оля\Downloads\praktika\практика\obj\x86\Debug\практика.vbproj.GenerateResource.Cache
+C:\Users\Гость\Desktop\praktika2307\praktika\практика\obj\x86\Debug\практика.exe
+C:\Users\Гость\Desktop\praktika2307\praktika\практика\obj\x86\Debug\практика.xml
+C:\Users\Гость\Desktop\praktika2307\praktika\практика\obj\x86\Debug\практика.pdb
+C:\Users\Гость\Desktop\praktika2307\praktika\практика\bin\Debug\практика.exe
+C:\Users\Гость\Desktop\praktika2307\praktika\практика\bin\Debug\практика.pdb
+C:\Users\Гость\Desktop\praktika2307\praktika\практика\bin\Debug\практика.xml
+C:\Users\Гость\Desktop\praktika2307\praktika\практика\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Гость\Desktop\praktika2307\praktika\практика\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Гость\Desktop\praktika2307\praktika\практика\obj\x86\Debug\практика.vbproj.GenerateResource.Cache
+C:\Users\Оля\Desktop\praktika2307\praktika2307\praktika\практика\obj\x86\Debug\практика.exe
+C:\Users\Оля\Desktop\praktika2307\praktika2307\praktika\практика\obj\x86\Debug\практика.xml
+C:\Users\Оля\Desktop\praktika2307\praktika2307\praktika\практика\obj\x86\Debug\практика.pdb
+C:\Users\Оля\Desktop\praktika2307\praktika2307\praktika\практика\bin\Debug\практика.exe
+C:\Users\Оля\Desktop\praktika2307\praktika2307\praktika\практика\bin\Debug\практика.pdb
+C:\Users\Оля\Desktop\praktika2307\praktika2307\praktika\практика\bin\Debug\практика.xml
+C:\Users\Оля\Desktop\praktika2307\praktika2307\praktika\практика\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Оля\Desktop\praktika2307\praktika2307\praktika\практика\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Оля\Desktop\praktika2307\praktika2307\praktika\практика\obj\x86\Debug\практика.vbproj.GenerateResource.Cache
+C:\Users\Оля\Desktop\1308\praktika2307\praktika\практика\obj\x86\Debug\практика.exe
+C:\Users\Оля\Desktop\1308\praktika2307\praktika\практика\obj\x86\Debug\практика.xml
+C:\Users\Оля\Desktop\1308\praktika2307\praktika\практика\obj\x86\Debug\практика.pdb
+C:\Users\Оля\Desktop\1308\praktika2307\praktika\практика\bin\Debug\практика.exe
+C:\Users\Оля\Desktop\1308\praktika2307\praktika\практика\bin\Debug\практика.pdb
+C:\Users\Оля\Desktop\1308\praktika2307\praktika\практика\bin\Debug\практика.xml
+C:\Users\Оля\Desktop\1308\praktika2307\praktika\практика\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Оля\Desktop\1308\praktika2307\praktika\практика\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Оля\Desktop\1308\praktika2307\praktika\практика\obj\x86\Debug\практика.vbproj.GenerateResource.Cache
+D:\Users\Преподавание\Программирование\Студенты\Лифт\praktika0909\практика\obj\x86\Debug\практика.exe
+D:\Users\Преподавание\Программирование\Студенты\Лифт\praktika0909\практика\obj\x86\Debug\практика.xml
+D:\Users\Преподавание\Программирование\Студенты\Лифт\praktika0909\практика\obj\x86\Debug\практика.pdb
+D:\Users\Преподавание\Программирование\Студенты\Лифт\praktika0909\практика\bin\Debug\практика.exe
+D:\Users\Преподавание\Программирование\Студенты\Лифт\praktika0909\практика\bin\Debug\практика.pdb
+D:\Users\Преподавание\Программирование\Студенты\Лифт\praktika0909\практика\bin\Debug\практика.xml
+D:\Users\Преподавание\Программирование\Студенты\Лифт\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Users\Преподавание\Программирование\Студенты\Лифт\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Users\Преподавание\Программирование\Студенты\Лифт\praktika0909\практика\obj\x86\Debug\практика.vbproj.GenerateResource.Cache
+D:\Users\Преподавание\Программирование\Работы Студентов\Лифт\praktika0909\практика\obj\x86\Debug\практика.exe
+D:\Users\Преподавание\Программирование\Работы Студентов\Лифт\praktika0909\практика\obj\x86\Debug\практика.xml
+D:\Users\Преподавание\Программирование\Работы Студентов\Лифт\praktika0909\практика\obj\x86\Debug\практика.pdb
+D:\Users\Преподавание\Программирование\Работы Студентов\Лифт\praktika0909\практика\bin\Debug\практика.exe
+D:\Users\Преподавание\Программирование\Работы Студентов\Лифт\praktika0909\практика\bin\Debug\практика.pdb
+D:\Users\Преподавание\Программирование\Работы Студентов\Лифт\praktika0909\практика\bin\Debug\практика.xml
+D:\Users\Преподавание\Программирование\Работы Студентов\Лифт\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Users\Преподавание\Программирование\Работы Студентов\Лифт\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Users\Преподавание\Программирование\Работы Студентов\Лифт\praktika0909\практика\obj\x86\Debug\практика.vbproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\praktika0909 - копия\praktika0909\практика\obj\x86\Debug\практика.exe
+C:\Users\Никита\Desktop\praktika0909 - копия\praktika0909\практика\obj\x86\Debug\практика.xml
+C:\Users\Никита\Desktop\praktika0909 - копия\praktika0909\практика\obj\x86\Debug\практика.pdb
+C:\Users\Никита\Desktop\praktika0909 - копия\praktika0909\практика\bin\Debug\практика.exe
+C:\Users\Никита\Desktop\praktika0909 - копия\praktika0909\практика\bin\Debug\практика.pdb
+C:\Users\Никита\Desktop\praktika0909 - копия\praktika0909\практика\bin\Debug\практика.xml
+C:\Users\Никита\Desktop\praktika0909 - копия\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Никита\Desktop\praktika0909 - копия\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Никита\Desktop\praktika0909 - копия\praktika0909\практика\obj\x86\Debug\практика.vbproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\praktika0909 - копия - копия\praktika0909\практика\obj\x86\Debug\практика.exe
+C:\Users\Никита\Desktop\praktika0909 - копия - копия\praktika0909\практика\obj\x86\Debug\практика.xml
+C:\Users\Никита\Desktop\praktika0909 - копия - копия\praktika0909\практика\obj\x86\Debug\практика.pdb
+C:\Users\Никита\Desktop\Новая папка\praktika0909 - копия - копия\praktika0909\практика\obj\x86\Debug\практика.exe
+C:\Users\Никита\Desktop\Новая папка\praktika0909 - копия - копия\praktika0909\практика\obj\x86\Debug\практика.xml
+C:\Users\Никита\Desktop\Новая папка\praktika0909 - копия - копия\praktika0909\практика\obj\x86\Debug\практика.pdb
+C:\Users\Никита\Desktop\praktika0909 - копия - копия\praktika0909\практика\bin\Debug\практика.exe
+C:\Users\Никита\Desktop\praktika0909 - копия - копия\praktika0909\практика\bin\Debug\практика.pdb
+C:\Users\Никита\Desktop\praktika0909 - копия - копия\praktika0909\практика\bin\Debug\практика.xml
+C:\Users\Никита\Desktop\praktika0909 - копия - копия\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Никита\Desktop\praktika0909 - копия - копия\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Никита\Desktop\praktika0909 - копия - копия\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Никита\Desktop\praktika0909 - копия - копия\praktika0909\практика\obj\x86\Debug\практика.vbproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\релизы\4\praktika0909\практика\obj\x86\Debug\практика.exe
+C:\Users\Никита\Desktop\релизы\4\praktika0909\практика\obj\x86\Debug\практика.xml
+C:\Users\Никита\Desktop\релизы\4\praktika0909\практика\obj\x86\Debug\практика.pdb
+C:\Users\Никита\Desktop\релизы\4\praktika0909\практика\bin\Debug\практика.exe
+C:\Users\Никита\Desktop\релизы\4\praktika0909\практика\bin\Debug\практика.pdb
+C:\Users\Никита\Desktop\релизы\4\praktika0909\практика\bin\Debug\практика.xml
+C:\Users\Никита\Desktop\релизы\4\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Никита\Desktop\релизы\4\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Никита\Desktop\релизы\4\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Никита\Desktop\релизы\4\praktika0909\практика\obj\x86\Debug\практика.vbproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\4\praktika0909\практика\obj\x86\Debug\практика.exe
+C:\Users\Никита\Desktop\4\praktika0909\практика\obj\x86\Debug\практика.xml
+C:\Users\Никита\Desktop\4\praktika0909\практика\obj\x86\Debug\практика.pdb
+C:\Users\Никита\Desktop\4\praktika0909\практика\bin\Debug\практика.exe
+C:\Users\Никита\Desktop\4\praktika0909\практика\bin\Debug\практика.pdb
+C:\Users\Никита\Desktop\4\praktika0909\практика\bin\Debug\практика.xml
+C:\Users\Никита\Desktop\4\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Никита\Desktop\4\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Никита\Desktop\4\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Никита\Desktop\4\praktika0909\практика\obj\x86\Debug\практика.vbproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\5\praktika0909\практика\obj\x86\Debug\практика.exe
+C:\Users\Никита\Desktop\5\praktika0909\практика\obj\x86\Debug\практика.xml
+C:\Users\Никита\Desktop\5\praktika0909\практика\obj\x86\Debug\практика.pdb
+C:\Users\Никита\Desktop\5\praktika0909\практика\bin\Debug\практика.exe
+C:\Users\Никита\Desktop\5\praktika0909\практика\bin\Debug\практика.pdb
+C:\Users\Никита\Desktop\5\praktika0909\практика\bin\Debug\практика.xml
+C:\Users\Никита\Desktop\5\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Никита\Desktop\5\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Никита\Desktop\5\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Никита\Desktop\5\praktika0909\практика\obj\x86\Debug\практика.vbproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\6\praktika0909\практика\obj\x86\Debug\практика.exe
+C:\Users\Никита\Desktop\6\praktika0909\практика\obj\x86\Debug\практика.xml
+C:\Users\Никита\Desktop\6\praktika0909\практика\obj\x86\Debug\практика.pdb
+C:\Users\Никита\Desktop\6\praktika0909\практика\bin\Debug\практика.exe
+C:\Users\Никита\Desktop\6\praktika0909\практика\bin\Debug\практика.pdb
+C:\Users\Никита\Desktop\6\praktika0909\практика\bin\Debug\практика.xml
+C:\Users\Никита\Desktop\6\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Никита\Desktop\6\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Никита\Desktop\6\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Никита\Desktop\6\praktika0909\практика\obj\x86\Debug\практика.vbproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\7\praktika0909\практика\obj\x86\Debug\практика.exe
+C:\Users\Никита\Desktop\7\praktika0909\практика\obj\x86\Debug\практика.xml
+C:\Users\Никита\Desktop\7\praktika0909\практика\obj\x86\Debug\практика.pdb
+C:\Users\Никита\Desktop\7\praktika0909\практика\bin\Debug\практика.exe
+C:\Users\Никита\Desktop\7\praktika0909\практика\bin\Debug\практика.pdb
+C:\Users\Никита\Desktop\7\praktika0909\практика\bin\Debug\практика.xml
+C:\Users\Никита\Desktop\7\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Никита\Desktop\7\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Никита\Desktop\7\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Никита\Desktop\7\praktika0909\практика\obj\x86\Debug\практика.vbproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\8\praktika0909\практика\obj\x86\Debug\практика.exe
+C:\Users\Никита\Desktop\8\praktika0909\практика\obj\x86\Debug\практика.xml
+C:\Users\Никита\Desktop\8\praktika0909\практика\obj\x86\Debug\практика.pdb
+C:\Users\Никита\Desktop\8\praktika0909\практика\bin\Debug\практика.exe
+C:\Users\Никита\Desktop\8\praktika0909\практика\bin\Debug\практика.pdb
+C:\Users\Никита\Desktop\8\praktika0909\практика\bin\Debug\практика.xml
+C:\Users\Никита\Desktop\8\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Никита\Desktop\8\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Никита\Desktop\8\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Никита\Desktop\8\praktika0909\практика\obj\x86\Debug\практика.vbproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\8\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Никита\Desktop\9\praktika0909\практика\obj\x86\Debug\практика.exe
+C:\Users\Никита\Desktop\9\praktika0909\практика\obj\x86\Debug\практика.xml
+C:\Users\Никита\Desktop\9\praktika0909\практика\obj\x86\Debug\практика.pdb
+C:\Users\Никита\Desktop\9\praktika0909\практика\bin\Debug\практика.exe
+C:\Users\Никита\Desktop\9\praktika0909\практика\bin\Debug\практика.pdb
+C:\Users\Никита\Desktop\9\praktika0909\практика\bin\Debug\практика.xml
+C:\Users\Никита\Desktop\9\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Никита\Desktop\9\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Никита\Desktop\9\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Никита\Desktop\9\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Никита\Desktop\9\praktika0909\практика\obj\x86\Debug\практика.vbproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\10\praktika0909\практика\obj\x86\Debug\практика.exe
+C:\Users\Никита\Desktop\10\praktika0909\практика\obj\x86\Debug\практика.xml
+C:\Users\Никита\Desktop\10\praktika0909\практика\obj\x86\Debug\практика.pdb
+C:\Users\Никита\Desktop\10\praktika0909\практика\bin\Debug\практика.exe
+C:\Users\Никита\Desktop\10\praktika0909\практика\bin\Debug\практика.pdb
+C:\Users\Никита\Desktop\10\praktika0909\практика\bin\Debug\практика.xml
+C:\Users\Никита\Desktop\10\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Никита\Desktop\10\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Никита\Desktop\10\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Никита\Desktop\10\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Никита\Desktop\10\praktika0909\практика\obj\x86\Debug\практика.vbproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\11\praktika0909\практика\obj\x86\Debug\практика.exe
+C:\Users\Никита\Desktop\11\praktika0909\практика\obj\x86\Debug\практика.xml
+C:\Users\Никита\Desktop\11\praktika0909\практика\obj\x86\Debug\практика.pdb
+C:\Users\Никита\Desktop\11\praktika0909\практика\bin\Debug\практика.exe
+C:\Users\Никита\Desktop\11\praktika0909\практика\bin\Debug\практика.pdb
+C:\Users\Никита\Desktop\11\praktika0909\практика\bin\Debug\практика.xml
+C:\Users\Никита\Desktop\11\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Никита\Desktop\11\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Никита\Desktop\11\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Никита\Desktop\11\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Никита\Desktop\11\praktika0909\практика\obj\x86\Debug\практика.vbproj.GenerateResource.Cache
+C:\Users\Никита\Desktop\12\praktika0909\практика\obj\x86\Debug\практика.exe
+C:\Users\Никита\Desktop\12\praktika0909\практика\obj\x86\Debug\практика.xml
+C:\Users\Никита\Desktop\12\praktika0909\практика\obj\x86\Debug\практика.pdb
+C:\Users\Никита\Desktop\12\praktika0909\практика\bin\Debug\практика.exe
+C:\Users\Никита\Desktop\12\praktika0909\практика\bin\Debug\практика.pdb
+C:\Users\Никита\Desktop\12\praktika0909\практика\bin\Debug\практика.xml
+C:\Users\Никита\Desktop\12\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Никита\Desktop\12\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Никита\Desktop\12\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Никита\Desktop\12\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Никита\Desktop\12\praktika0909\практика\obj\x86\Debug\практика.vbproj.GenerateResource.Cache
+C:\Users\Никита\Downloads\12\12\praktika0909\практика\obj\x86\Debug\практика.exe
+C:\Users\Никита\Downloads\12\12\praktika0909\практика\obj\x86\Debug\практика.xml
+C:\Users\Никита\Downloads\12\12\praktika0909\практика\obj\x86\Debug\практика.pdb
+C:\Users\Никита\Downloads\12\12\praktika0909\практика\bin\Debug\практика.exe
+C:\Users\Никита\Downloads\12\12\praktika0909\практика\bin\Debug\практика.pdb
+C:\Users\Никита\Downloads\12\12\praktika0909\практика\bin\Debug\практика.xml
+C:\Users\Никита\Downloads\12\12\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Никита\Downloads\12\12\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form2.resources
+C:\Users\Никита\Downloads\12\12\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Form3.resources
+C:\Users\Никита\Downloads\12\12\praktika0909\практика\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Никита\Downloads\12\12\praktika0909\практика\obj\x86\Debug\практика.vbproj.GenerateResource.Cache
